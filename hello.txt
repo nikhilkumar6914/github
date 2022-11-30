@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 THis line is from folder 2
+=======
+THis line is from folder 2
+THis line is from folder 1
+THis line is from folder 1
+
+>>>>>>> b3472e0de8a204d76a5a28b9254a4ffc13b88272
