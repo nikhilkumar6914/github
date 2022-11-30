@@ -1,1 +1,4 @@
 THis line is from folder 2
+THis line is from folder 1
+THis line is from folder 1
+
